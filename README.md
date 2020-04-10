@@ -1,5 +1,5 @@
 ## dice-roller-452
-#Dice Roller v0.1
+Dice Roller v0.1
 
 This program will roll dice, multiple dice, any dice! 2 sides, 100 sides,
 1000 sides. This project is in the development stage, so features may be missing
