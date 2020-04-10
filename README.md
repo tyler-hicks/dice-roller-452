@@ -19,10 +19,10 @@ they were input, as well as the total.
 4. Run the program again to roll again.
 
 ## Upcoming Features
-- Continuous rolling (don't need to run the program again once one roll is completed.)
-- History (can view the results of past rolls)
-- Separate function for d20s. d20's behave differently in Dungeons and Dragons than other dice. Traditionally, if
+- Continuous rolling -- don't need to run the program again once one roll is completed.
+- History -- can view the results of past rolls
+- Separate function for d20s -- d20's behave differently in Dungeons and Dragons than other dice. Traditionally, if
 you're rolling multiple d20, you're adding the modifier to each roll rather than the total. We want to accomodate that.
 - Ability to turn off the above feature -- I don't know your life. Maybe other games use d20 in weird ways.
-- Advantage / Disadvantage - Only view the higher of two rolls or the lower of two rolls. (Possibly add a D or A to the
+- Advantage / Disadvantage -- Only view the higher of two rolls or the lower of two rolls. (Possibly add a D or A to the
 beginning of the XdY + XdY... + Z formula? I haven't figured it out yet)
