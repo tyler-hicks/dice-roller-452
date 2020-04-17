@@ -1,5 +1,5 @@
 ## dice-roller-452
-Dice Roller v0.1
+Dice Roller v0.3
 
 This program will roll dice, multiple dice, any dice! 2 sides, 100 sides,
 1000 sides. This project is in the development stage, so features may be missing
@@ -12,14 +12,14 @@ or not yet working.
 
 ## Usage
 1. Run the program
-2a. Input your dice roll in the format: XdY +- XdY +-... Z, where X is the number of a type of dice, and Y is the number of sides
+2. Input your dice roll in the format: XdY +- XdY +-... Z, where X is the number of a type of dice, and Y is the number of sides
 You can add as many dice as you want, with whatever sides you want. Example: 1d6 + 2d4 + 6d8 + 9
-    a. Format is important. Please add a space between the + or - and the variables.
-2b. You can now roll multiple times by adding 'x#' to the end of your equation. For example: 1d20 + 1d6 + 7 x3. This will roll
+    (Format is important. Please add a space between the + or - and the variables.)
+3. You can now roll multiple times by adding 'x#' to the end of your equation. For example: 1d20 + 1d6 + 7 x3. This will roll
 those dice 3 times in a row and give you 3 separate results.
-3. Press enter and you'll get your results. The program will display the results of each dice roll in the order that
+4. Press enter and you'll get your results. The program will display the results of each dice roll in the order that
 they were input, as well as the total.
-4. Run the program again to roll again.
+5. Run the program again to roll again.
 
 ## Upcoming Features
 - Continuous rolling -- don't need to run the program again once one roll is completed.
