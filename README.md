@@ -1,5 +1,5 @@
 ## dice-roller-452
-Dice Roller v0.4
+Dice Roller v0.5
 
 This program will roll dice, multiple dice, any dice! 2 sides, 100 sides,
 1000 sides. This project is in the development stage, so features may be missing
@@ -25,5 +25,4 @@ they were input, as well as the total.
 ## Upcoming Features
 - Advantage / Disadvantage -- Only view the higher of two rolls or the lower of two rolls. (Possibly add a D or A to the
 beginning of the XdY + XdY... + Z formula? I haven't figured it out yet)
-- ASCII Art if I'm feeling fancy.
 - Fine-tuning the program, coming up with custom error messages for not inputting roll correctly.
