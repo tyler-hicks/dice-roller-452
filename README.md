@@ -11,25 +11,28 @@ possible.
 Format is similar to how many role-playing games format their dice rolls, and is very important to making sure the program
 works as intended. When the program asks for your dice input, you'll enter an integer for the number of dice you want to roll,
 followed by the letter 'd' for dice or die, followed by another integer for the number of sides the die has.
-EXAMPLES:
-One six-sided die being rolled would look like this: 1d6
-Two twenty-sided dice being rolled would look like this: 2d20
-MULTIPLE DICE
+# EXAMPLES:
+- One six-sided die being rolled would look like this: 1d6
+- Two twenty-sided dice being rolled would look like this: 2d20
+# MULTIPLE DICE
 If you want to add more dice, add a space, a plus or a minus sign, depending on whether you want to add or subtract those rolls
 from the overall total, and another space, and then simply follow the steps above again.
-EXAMPLES:
-One six-sided die plus one four-sided die would like this: 1d6 + 1d4
-Two twelve-sided die minus three eight-sided die would look like this: 2d12 - 3d8
-BONUSES/PENALTIES
-In role-playing games, there are often modifiers that you can add or subtract from your dice rolls. To do that in this dice roller, simply add a space, a plus or a minus sign, and another space, followed by an integer.
-EXAMPLES:
-Three ten-sided die plus seven: 3d10 + 7
-One twenty-sided die plus one eight-sided die plus one four-sided die minus two: 1d20 + 1d8 + 1d4 - 2
-MULTIPLIERS
-In role-playing games, you might want to roll multiple times in a row with the same modifiers or die, such as when attacking in 5th Edition Dungeons and Dragons. To do that in this dice roller, simply add the letter 'x' followed by an integer to the end of your input.
-EXAMPLES:
-One twenty-sided die plus five, twice: 1d20 + 5 x2
-One twenty-sided die minus one four-sided die plus one eight-sided die plus twelve, four times: 1d20 - 1d4 + 1d8 + 12 x4
+# EXAMPLES:
+- One six-sided die plus one four-sided die would like this: 1d6 + 1d4
+- Two twelve-sided die minus three eight-sided die would look like this: 2d12 - 3d8
+# BONUSES/PENALTIES
+In role-playing games, there are often modifiers that you can add or subtract from your dice rolls. To do that in this dice
+roller, simply add a space, a plus or a minus sign, and another space, followed by an integer.
+# EXAMPLES:
+- Three ten-sided die plus seven: 3d10 + 7
+- One twenty-sided die plus one eight-sided die plus one four-sided die minus two: 1d20 + 1d8 + 1d4 - 2
+# MULTIPLIERS
+In role-playing games, you might want to roll multiple times in a row with the same modifiers or die, such as when attacking in
+5th Edition Dungeons and Dragons. To do that in this dice roller, simply add the letter 'x' followed by an integer to the end of
+your input.
+# EXAMPLES:
+- One twenty-sided die plus five, twice: 1d20 + 5 x2
+- One twenty-sided die minus one four-sided die plus one eight-sided die plus twelve, four times: 1d20 - 1d4 + 1d8 + 12 x4
 
 ## History
 One of the functions of this dice roller is to be able to look at your past rolls and results. The results and die rolls will 
